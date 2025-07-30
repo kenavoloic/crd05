@@ -1,0 +1,2675 @@
+[
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fainga'a",
+      "prenom": "F",
+      "date_naissance": "1995-05-05",
+      "poste_id": 1,
+      "club_id": 4,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fourcade",
+      "prenom": "E",
+      "date_naissance": "1997-04-11",
+      "poste_id": 1,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Massa",
+      "prenom": "B",
+      "date_naissance": "2004-05-13",
+      "poste_id": 1,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lotrian",
+      "prenom": "S",
+      "date_naissance": "2000-08-13",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Akhaladze",
+      "prenom": "G",
+      "date_naissance": "1999-04-13",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "GEO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ala'alatoa",
+      "prenom": "M",
+      "date_naissance": "1991-08-28",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "SAO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Duchêne",
+      "prenom": "T",
+      "date_naissance": "2004-08-25",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Falgoux",
+      "prenom": "E",
+      "date_naissance": "1993-01-19",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Frisach",
+      "prenom": "M",
+      "date_naissance": "2006-02-10",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Montagne",
+      "prenom": "R",
+      "date_naissance": "2000-09-30",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ojovan",
+      "prenom": "C",
+      "date_naissance": "1997-01-04",
+      "poste_id": 2,
+      "club_id": 4,
+      "iso": "MOL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ceyte",
+      "prenom": "T",
+      "date_naissance": "1991-02-13",
+      "poste_id": 3,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lanen",
+      "prenom": "T",
+      "date_naissance": "1998-04-01",
+      "poste_id": 3,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "M'Foudi Mezaache",
+      "prenom": "S",
+      "date_naissance": "2002-05-08",
+      "poste_id": 3,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Rixen",
+      "prenom": "O",
+      "date_naissance": "2002-02-09",
+      "poste_id": 3,
+      "club_id": 4,
+      "iso": "ALL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Simmons",
+      "prenom": "R",
+      "date_naissance": "1989-04-19",
+      "poste_id": 3,
+      "club_id": 4,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Chalus-Cercy",
+      "prenom": "A",
+      "date_naissance": "2005-01-17",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dessaigne",
+      "prenom": "L",
+      "date_naissance": "1999-02-07",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fischer",
+      "prenom": "A",
+      "date_naissance": "1998-01-19",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hemery",
+      "prenom": "A",
+      "date_naissance": "2001-01-09",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Kremer",
+      "prenom": "M",
+      "date_naissance": "1997-07-30",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lee",
+      "prenom": "F",
+      "date_naissance": "1988-08-29",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "SAO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Sowakula",
+      "prenom": "P",
+      "date_naissance": "1994-10-26",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tixeront",
+      "prenom": "K",
+      "date_naissance": "2002-01-22",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Yato",
+      "prenom": "P",
+      "date_naissance": "1993-12-12",
+      "poste_id": 4,
+      "club_id": 4,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bézy",
+      "prenom": "S",
+      "date_naissance": "1991-11-22",
+      "poste_id": 5,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bousquet",
+      "prenom": "J",
+      "date_naissance": "2004-10-29",
+      "poste_id": 5,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Jauneau",
+      "prenom": "B",
+      "date_naissance": "2003-11-17",
+      "poste_id": 5,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Sanga",
+      "prenom": "E",
+      "date_naissance": "1995-05-01",
+      "poste_id": 5,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Belleau",
+      "prenom": "A",
+      "date_naissance": "1996-04-08",
+      "poste_id": 6,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Giral",
+      "prenom": "T",
+      "date_naissance": "2003-02-04",
+      "poste_id": 6,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Plummer",
+      "prenom": "H",
+      "date_naissance": "1998-06-19",
+      "poste_id": 6,
+      "club_id": 4,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Urdapilleta",
+      "prenom": "B",
+      "date_naissance": "1986-03-11",
+      "poste_id": 6,
+      "club_id": 4,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Belaubre",
+      "prenom": "M",
+      "date_naissance": "2005-03-15",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Darricarrère",
+      "prenom": "L",
+      "date_naissance": "2004-06-04",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fall",
+      "prenom": "Y",
+      "date_naissance": "2003-06-24",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fouyssac",
+      "prenom": "P",
+      "date_naissance": "1995-03-17",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Moala",
+      "prenom": "G",
+      "date_naissance": "1990-11-05",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "TON"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Simone",
+      "prenom": "I",
+      "date_naissance": "1995-07-10",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Delguy",
+      "prenom": "B",
+      "date_naissance": "1997-04-22",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Jurand",
+      "prenom": "J",
+      "date_naissance": "1995-11-11",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Raka",
+      "prenom": "A",
+      "date_naissance": "1994-12-09",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tauzin",
+      "prenom": "L",
+      "date_naissance": "1998-05-21",
+      "poste_id": 7,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hamdaoui",
+      "prenom": "K",
+      "date_naissance": "1994-04-15",
+      "poste_id": 8,
+      "club_id": 4,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Newsome",
+      "prenom": "A",
+      "date_naissance": "1996-01-20",
+      "poste_id": 8,
+      "club_id": 4,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lam",
+      "prenom": "S",
+      "date_naissance": "1989-02-18",
+      "poste_id": 1,
+      "club_id": 11,
+      "iso": "SAO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lotrian",
+      "prenom": "M",
+      "date_naissance": "2004-02-18",
+      "poste_id": 1,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Montgaillard",
+      "prenom": "V",
+      "date_naissance": "2002-07-16",
+      "poste_id": 1,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ruiz",
+      "prenom": "I",
+      "date_naissance": "2001-01-03",
+      "poste_id": 1,
+      "club_id": 11,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Barcenilla d'Onghia",
+      "prenom": "J",
+      "date_naissance": "2006-07-05",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "ESP"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Beria",
+      "prenom": "G",
+      "date_naissance": "1999-11-11",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Brookes",
+      "prenom": "K",
+      "date_naissance": "1990-08-29",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "ANG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ceccarelli",
+      "prenom": "P",
+      "date_naissance": "1992-02-16",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "ITA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Devaux",
+      "prenom": "B",
+      "date_naissance": "1996-11-14",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fakatika",
+      "prenom": "A",
+      "date_naissance": "2001-01-31",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Roelofse",
+      "prenom": "N",
+      "date_naissance": "1995-06-06",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "AFS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tetrashvili",
+      "prenom": "G",
+      "date_naissance": "1993-08-31",
+      "poste_id": 2,
+      "club_id": 11,
+      "iso": "GEO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Chinarro",
+      "prenom": "B",
+      "date_naissance": "2004-01-23",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hicks",
+      "prenom": "M",
+      "date_naissance": "1999-09-15",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Labouteley",
+      "prenom": "T",
+      "date_naissance": "1995-06-30",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Orie",
+      "prenom": "M",
+      "date_naissance": "1993-02-15",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "AFS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ortombina",
+      "prenom": "A",
+      "date_naissance": "2002-10-05",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "ITA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tanguy",
+      "prenom": "M",
+      "date_naissance": "1996-05-05",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tuilagi",
+      "prenom": "P",
+      "date_naissance": "2004-07-28",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Warion",
+      "prenom": "A",
+      "date_naissance": "2001-01-07",
+      "poste_id": 3,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bachelier",
+      "prenom": "L",
+      "date_naissance": "1995-03-26",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bouthier",
+      "prenom": "A",
+      "date_naissance": "2004-06-22",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Brazo",
+      "prenom": "A",
+      "date_naissance": "1992-05-21",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Della-Schiava",
+      "prenom": "N",
+      "date_naissance": "2002-02-28",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dvali",
+      "prenom": "A",
+      "date_naissance": "2005-07-10",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fa'aso'o",
+      "prenom": "S",
+      "date_naissance": "1994-10-02",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "SAO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Oviedo",
+      "prenom": "J",
+      "date_naissance": "2001-07-17",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Sobela",
+      "prenom": "P",
+      "date_naissance": "1992-08-12",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Van Tonder",
+      "prenom": "J",
+      "date_naissance": "1998-03-08",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Velarte",
+      "prenom": "L",
+      "date_naissance": "1998-10-24",
+      "poste_id": 4,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Aprasidze",
+      "prenom": "G",
+      "date_naissance": "1998-01-14",
+      "poste_id": 5,
+      "club_id": 11,
+      "iso": "GEO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ecochard",
+      "prenom": "T",
+      "date_naissance": "1992-12-14",
+      "poste_id": 5,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hall",
+      "prenom": "J",
+      "date_naissance": "1996-01-02",
+      "poste_id": 5,
+      "club_id": 11,
+      "iso": "AFS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Viola",
+      "prenom": "L",
+      "date_naissance": "2004-04-16",
+      "poste_id": 5,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Allan",
+      "prenom": "T",
+      "date_naissance": "1993-04-26",
+      "poste_id": 6,
+      "club_id": 11,
+      "iso": "ITA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Aucagne",
+      "prenom": "A",
+      "date_naissance": "2000-04-11",
+      "poste_id": 6,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Delpy",
+      "prenom": "V",
+      "date_naissance": "2003-08-22",
+      "poste_id": 6,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Kretchmann",
+      "prenom": "G",
+      "date_naissance": "2006-03-15",
+      "poste_id": 6,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Mcintyre",
+      "prenom": "J",
+      "date_naissance": "1994-04-28",
+      "poste_id": 6,
+      "club_id": 11,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Barraque",
+      "prenom": "J",
+      "date_naissance": "1991-04-24",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bozzo",
+      "prenom": "N",
+      "date_naissance": "2004-08-01",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "ITA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Buliruarua",
+      "prenom": "E",
+      "date_naissance": "1997-01-23",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "De La Fuente",
+      "prenom": "J",
+      "date_naissance": "1991-02-24",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Duguivalu",
+      "prenom": "A",
+      "date_naissance": "1995-01-31",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Naqalevu",
+      "prenom": "A",
+      "date_naissance": "1989-08-21",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Poulet",
+      "prenom": "J",
+      "date_naissance": "2003-04-30",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Crossdale",
+      "prenom": "A",
+      "date_naissance": "1998-01-09",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "ANG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dupichot",
+      "prenom": "L",
+      "date_naissance": "1995-09-23",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Granell",
+      "prenom": "M",
+      "date_naissance": "2005-07-26",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Joseph",
+      "prenom": "J",
+      "date_naissance": "2002-08-29",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Veredamu",
+      "prenom": "T",
+      "date_naissance": "1989-09-01",
+      "poste_id": 7,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dubois",
+      "prenom": "L",
+      "date_naissance": "1998-06-09",
+      "poste_id": 8,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Forner",
+      "prenom": "T",
+      "date_naissance": "2001-10-17",
+      "poste_id": 8,
+      "club_id": 11,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Toganiyadrava",
+      "prenom": "S",
+      "date_naissance": null,
+      "poste_id": 8,
+      "club_id": 11,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Beziat",
+      "prenom": "T",
+      "date_naissance": "1994-05-11",
+      "poste_id": 1,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Blanchard",
+      "prenom": "C",
+      "date_naissance": "1989-07-22",
+      "poste_id": 1,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Leafa",
+      "prenom": "P",
+      "date_naissance": "1989-03-16",
+      "poste_id": 1,
+      "club_id": 14,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Scolan",
+      "prenom": "B",
+      "date_naissance": "2004-03-16",
+      "poste_id": 1,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Suta",
+      "prenom": "L",
+      "date_naissance": "2002-12-29",
+      "poste_id": 1,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Berguet",
+      "prenom": "C",
+      "date_naissance": "2000-01-13",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "BEL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bourgeois",
+      "prenom": "S",
+      "date_naissance": "2001-11-30",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Djehi",
+      "prenom": "H",
+      "date_naissance": "1998-06-30",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Kite",
+      "prenom": "P",
+      "date_naissance": "1993-04-24",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "TON"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Medrano",
+      "prenom": "S",
+      "date_naissance": "1996-05-06",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Moukoro",
+      "prenom": "T",
+      "date_naissance": "2002-01-01",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tafili",
+      "prenom": "P",
+      "date_naissance": "1987-03-08",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Vunipola",
+      "prenom": "M",
+      "date_naissance": "1991-01-13",
+      "poste_id": 2,
+      "club_id": 14,
+      "iso": "ANG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bresler",
+      "prenom": "A",
+      "date_naissance": "1988-02-16",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "NAM"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Desjeux",
+      "prenom": "M",
+      "date_naissance": "2002-01-26",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Marks",
+      "prenom": "E",
+      "date_naissance": "1996-12-09",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "ALL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Metz",
+      "prenom": "F",
+      "date_naissance": "1991-01-23",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Mézou",
+      "prenom": "T",
+      "date_naissance": "2002-09-20",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Uhila",
+      "prenom": "M",
+      "date_naissance": "2002-04-30",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Van Der Merwe",
+      "prenom": "C",
+      "date_naissance": "1996-09-09",
+      "poste_id": 3,
+      "club_id": 14,
+      "iso": "AFS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Augry",
+      "prenom": "S",
+      "date_naissance": "1997-08-22",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Boulier",
+      "prenom": "L",
+      "date_naissance": "2001-08-23",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Chateau",
+      "prenom": "K",
+      "date_naissance": "1992-06-15",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Decubber",
+      "prenom": "J",
+      "date_naissance": "1996-09-10",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Edwards",
+      "prenom": "J",
+      "date_naissance": "1993-09-21",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Gorrissen",
+      "prenom": "F",
+      "date_naissance": "1994-08-30",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Iposo",
+      "prenom": "E",
+      "date_naissance": "2004-09-17",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "RDC"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Kalamafoni",
+      "prenom": "S",
+      "date_naissance": "1988-05-18",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "TON"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Kamikamica",
+      "prenom": "K",
+      "date_naissance": "1996-04-27",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Parete",
+      "prenom": "J",
+      "date_naissance": "1993-04-20",
+      "poste_id": 4,
+      "club_id": 14,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Gouaux",
+      "prenom": "A",
+      "date_naissance": "1999-02-15",
+      "poste_id": 5,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Le Bail",
+      "prenom": "J",
+      "date_naissance": "1992-02-09",
+      "poste_id": 5,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ruru",
+      "prenom": "M",
+      "date_naissance": "1990-12-03",
+      "poste_id": 5,
+      "club_id": 14,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Valentin",
+      "prenom": "R",
+      "date_naissance": "2005-09-04",
+      "poste_id": 5,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Cotarmanac'h",
+      "prenom": "J",
+      "date_naissance": "2005-04-09",
+      "poste_id": 6,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Debaes",
+      "prenom": "T",
+      "date_naissance": "2001-11-30",
+      "poste_id": 6,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lafage",
+      "prenom": "M",
+      "date_naissance": "1994-09-01",
+      "poste_id": 6,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Arrate",
+      "prenom": "A",
+      "date_naissance": "1997-06-24",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Costossèque",
+      "prenom": "T",
+      "date_naissance": "2000-04-26",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Porch",
+      "prenom": "J",
+      "date_naissance": "1994-03-04",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "IRL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Saili",
+      "prenom": "F",
+      "date_naissance": "1991-02-16",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Valleau",
+      "prenom": "S",
+      "date_naissance": "1996-10-08",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Vili",
+      "prenom": "T",
+      "date_naissance": "2000-10-31",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bastardie",
+      "prenom": "T",
+      "date_naissance": "2000-02-26",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Benmegal",
+      "prenom": "E",
+      "date_naissance": "2003-10-28",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Boudehent",
+      "prenom": "P",
+      "date_naissance": "1998-02-06",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Camou",
+      "prenom": "R",
+      "date_naissance": "1996-10-09",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Nakosi",
+      "prenom": "F",
+      "date_naissance": "1992-04-08",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Surano",
+      "prenom": "P",
+      "date_naissance": "1998-08-25",
+      "poste_id": 7,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ayarza",
+      "prenom": "I",
+      "date_naissance": "1999-09-07",
+      "poste_id": 8,
+      "club_id": 14,
+      "iso": "CHL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Duplenne",
+      "prenom": "G",
+      "date_naissance": "1993-08-09",
+      "poste_id": 8,
+      "club_id": 14,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Barlot",
+      "prenom": "G",
+      "date_naissance": "1997-04-13",
+      "poste_id": 1,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Colonna",
+      "prenom": "P",
+      "date_naissance": "2001-06-14",
+      "poste_id": 1,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Zarantonello",
+      "prenom": "L",
+      "date_naissance": "2000-11-17",
+      "poste_id": 1,
+      "club_id": 3,
+      "iso": "ITA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Azar",
+      "prenom": "A",
+      "date_naissance": "1994-06-10",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Chilachava",
+      "prenom": "L",
+      "date_naissance": "1991-08-17",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "GEO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Collier",
+      "prenom": "W",
+      "date_naissance": "1991-05-05",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "ANG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Corato",
+      "prenom": "N",
+      "date_naissance": "1997-10-07",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Guérois-Galisson",
+      "prenom": "L",
+      "date_naissance": "2001-12-22",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tichit",
+      "prenom": "A",
+      "date_naissance": "1989-06-13",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Walcker",
+      "prenom": "Q",
+      "date_naissance": "1996-02-21",
+      "poste_id": 2,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ducat",
+      "prenom": "G",
+      "date_naissance": "1996-05-20",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Jedrasiak",
+      "prenom": "P",
+      "date_naissance": "1993-02-06",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Macurdy",
+      "prenom": "R",
+      "date_naissance": "2001-09-21",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Maravat",
+      "prenom": "G",
+      "date_naissance": "2000-06-11",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Nakarawa",
+      "prenom": "L",
+      "date_naissance": "1988-04-02",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Staniforth",
+      "prenom": "T",
+      "date_naissance": "1994-08-13",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Vanverberghe",
+      "prenom": "F",
+      "date_naissance": "2000-07-22",
+      "poste_id": 3,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ardron",
+      "prenom": "T",
+      "date_naissance": "1991-06-16",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "CAN"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Babillot",
+      "prenom": "M",
+      "date_naissance": "1993-09-09",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Cope",
+      "prenom": "B",
+      "date_naissance": "2002-02-09",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Delaporte",
+      "prenom": "B",
+      "date_naissance": "1997-03-27",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Meka",
+      "prenom": "S",
+      "date_naissance": "2000-03-13",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Moore-Aiono",
+      "prenom": "I",
+      "date_naissance": "2000-03-03",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "SAO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Papali'i",
+      "prenom": "A",
+      "date_naissance": "1993-06-20",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Peysson",
+      "prenom": "Y",
+      "date_naissance": "2000-07-06",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tukino",
+      "prenom": "F",
+      "date_naissance": "2001-06-16",
+      "poste_id": 4,
+      "club_id": 3,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Arata",
+      "prenom": "S",
+      "date_naissance": "1996-09-02",
+      "poste_id": 5,
+      "club_id": 3,
+      "iso": "URU"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Doubrère",
+      "prenom": "G",
+      "date_naissance": "1995-12-24",
+      "poste_id": 5,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Fernandez",
+      "prenom": "J",
+      "date_naissance": "1997-05-15",
+      "poste_id": 5,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Le Brun",
+      "prenom": "L",
+      "date_naissance": "2002-02-28",
+      "poste_id": 6,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Matkava",
+      "prenom": "L",
+      "date_naissance": "2001-10-05",
+      "poste_id": 6,
+      "club_id": 3,
+      "iso": "GEO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Popelin",
+      "prenom": "P",
+      "date_naissance": "1995-06-23",
+      "poste_id": 6,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Botitu",
+      "prenom": "V",
+      "date_naissance": "1998-06-15",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Cocagi",
+      "prenom": "A",
+      "date_naissance": "1994-03-01",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dupont",
+      "prenom": "J",
+      "date_naissance": "2001-02-08",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Goodhue",
+      "prenom": "J",
+      "date_naissance": "1995-06-13",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "NZL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Seguret",
+      "prenom": "A",
+      "date_naissance": "1998-07-22",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Zeghdar",
+      "prenom": "A",
+      "date_naissance": "1999-05-22",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ambadiang",
+      "prenom": "C",
+      "date_naissance": "1999-01-13",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "CAM"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Baget",
+      "prenom": "R",
+      "date_naissance": "1997-07-27",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hulleu",
+      "prenom": "N",
+      "date_naissance": "2000-05-16",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Raisuqe",
+      "prenom": "J",
+      "date_naissance": "1994-07-22",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Waqaninavatu",
+      "prenom": "O",
+      "date_naissance": "2000-04-22",
+      "poste_id": 7,
+      "club_id": 3,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Chabouni",
+      "prenom": "T",
+      "date_naissance": "2003-12-22",
+      "poste_id": 8,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dumora",
+      "prenom": "J",
+      "date_naissance": "1988-03-24",
+      "poste_id": 8,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Palis",
+      "prenom": "G",
+      "date_naissance": "1991-07-08",
+      "poste_id": 8,
+      "club_id": 3,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bosch",
+      "prenom": "F",
+      "date_naissance": "1991-08-08",
+      "poste_id": 1,
+      "club_id": 1,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Giudicelli",
+      "prenom": "V",
+      "date_naissance": "1997-06-25",
+      "poste_id": 1,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Martin",
+      "prenom": "L",
+      "date_naissance": "2002-12-09",
+      "poste_id": 1,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Van Jaarsveld",
+      "prenom": "T",
+      "date_naissance": "1987-06-30",
+      "poste_id": 1,
+      "club_id": 1,
+      "iso": "NAM"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bordelai",
+      "prenom": "A",
+      "date_naissance": "2000-03-29",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Castillon",
+      "prenom": "P",
+      "date_naissance": "2003-09-20",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Cormenier",
+      "prenom": "S",
+      "date_naissance": "1996-01-10",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Cotet",
+      "prenom": "P",
+      "date_naissance": "1993-10-12",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Scholtz",
+      "prenom": "P",
+      "date_naissance": "1994-03-20",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "AFS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tagi",
+      "prenom": "L",
+      "date_naissance": "1997-06-23",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tatafu",
+      "prenom": "T",
+      "date_naissance": "2002-10-13",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tsikhistavi",
+      "prenom": "B",
+      "date_naissance": "2003-07-24",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "GEO"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Villar",
+      "prenom": "M",
+      "date_naissance": "2002-11-06",
+      "poste_id": 2,
+      "club_id": 1,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Capilla",
+      "prenom": "E",
+      "date_naissance": "2003-01-05",
+      "poste_id": 3,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Marchois",
+      "prenom": "D",
+      "date_naissance": "1994-02-05",
+      "poste_id": 3,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Moon",
+      "prenom": "A",
+      "date_naissance": "1996-09-06",
+      "poste_id": 3,
+      "club_id": 1,
+      "iso": "ANG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Paulos",
+      "prenom": "L",
+      "date_naissance": "1998-01-09",
+      "poste_id": 3,
+      "club_id": 1,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Poloniati",
+      "prenom": "V",
+      "date_naissance": "1995-08-27",
+      "poste_id": 3,
+      "club_id": 1,
+      "iso": "TON"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Ariceta",
+      "prenom": "M",
+      "date_naissance": "2004-03-20",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "ESP"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bourdeau",
+      "prenom": "R",
+      "date_naissance": "1992-02-27",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Bruni",
+      "prenom": "R",
+      "date_naissance": "1993-09-03",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Cassiem",
+      "prenom": "U",
+      "date_naissance": "1990-03-17",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "AFS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Chouzenoux",
+      "prenom": "B",
+      "date_naissance": "1993-08-07",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Dioné",
+      "prenom": "R",
+      "date_naissance": "2002-06-25",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Habel-Kuffner",
+      "prenom": "G",
+      "date_naissance": "1995-01-09",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "ALL"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "HéGuy",
+      "prenom": "B",
+      "date_naissance": "1998-05-11",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Iturria",
+      "prenom": "A",
+      "date_naissance": "1994-05-13",
+      "poste_id": 4,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Germain",
+      "prenom": "B",
+      "date_naissance": "2000-11-21",
+      "poste_id": 5,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Machenaud",
+      "prenom": "M",
+      "date_naissance": "1988-12-30",
+      "poste_id": 5,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Rouet",
+      "prenom": "G",
+      "date_naissance": "1988-08-13",
+      "poste_id": 5,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lopez",
+      "prenom": "C",
+      "date_naissance": "1989-04-03",
+      "poste_id": 6,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Segonds",
+      "prenom": "J",
+      "date_naissance": "1997-04-06",
+      "poste_id": 6,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hodge",
+      "prenom": "R",
+      "date_naissance": "1994-08-28",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "AUS"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Lapegue-Lafaye",
+      "prenom": "G",
+      "date_naissance": "2005-02-20",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Maqala",
+      "prenom": "S",
+      "date_naissance": "2000-03-20",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FID"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Martocq",
+      "prenom": "G",
+      "date_naissance": "1999-08-23",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Mori",
+      "prenom": "F",
+      "date_naissance": "2000-10-13",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "ITA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tuilagi",
+      "prenom": "M",
+      "date_naissance": "1991-05-18",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "ANG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Callandret",
+      "prenom": "A",
+      "date_naissance": "1997-08-23",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Carreras",
+      "prenom": "M",
+      "date_naissance": "1999-12-17",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "ARG"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Hannoun",
+      "prenom": "V",
+      "date_naissance": "2003-08-20",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Megdoud",
+      "prenom": "N",
+      "date_naissance": "1997-03-26",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Spring",
+      "prenom": "T",
+      "date_naissance": "2002-09-26",
+      "poste_id": 7,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Erbinartegaray",
+      "prenom": "A",
+      "date_naissance": "2000-06-16",
+      "poste_id": 8,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Germain",
+      "prenom": "G",
+      "date_naissance": "1990-07-02",
+      "poste_id": 8,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Orabé",
+      "prenom": "Y",
+      "date_naissance": "2002-05-21",
+      "poste_id": 8,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  },
+  {
+    "model": "configurations.joueur",
+    "fields": {
+      "nom": "Tiberghien",
+      "prenom": "C",
+      "date_naissance": "2000-01-08",
+      "poste_id": 8,
+      "club_id": 1,
+      "iso": "FRA"
+    }
+  }
+]

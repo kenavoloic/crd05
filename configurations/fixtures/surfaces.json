@@ -1,0 +1,17 @@
+[
+  {
+    "model": "configurations.surface",
+    "pk":1,
+    "fields": {"nom": "pelouse hybride"}
+  },
+  {
+    "model": "configurations.surface",
+    "pk":2,
+    "fields": {"nom": "pelouse synthétique"}
+  },
+  {
+    "model": "configurations.surface",
+    "pk":3,
+    "fields": {"nom": "pelouse naturelle"}
+  }
+]

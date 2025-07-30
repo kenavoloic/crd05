@@ -1,0 +1,17 @@
+[
+  {
+    "model": "configurations.groupe",
+    "pk": 1,
+    "fields": {"nom": "avant"}
+  },
+  {
+    "model": "configurations.groupe",
+    "pk": 2,
+    "fields": {"nom": "demi"}
+  },
+  {
+    "model": "configurations.groupe",
+    "pk": 3,
+    "fields": {"nom": "arrière"}
+  }
+]

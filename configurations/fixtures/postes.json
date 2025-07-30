@@ -1,0 +1,74 @@
+[
+  {
+    "model": "configurations.poste",
+    "pk": 1,
+    "fields": {
+      "poste": "tal",
+      "nom": "Talonneur",
+      "groupe_id": 1
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 2,
+    "fields": {
+      "poste": "pil",
+      "nom": "Pillier",
+      "groupe_id": 1
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 3,
+    "fields": {
+      "poste": "2e",
+      "nom": "Deuxième ligne",
+      "groupe_id": 1
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 4,
+    "fields": {
+      "poste": "3e",
+      "nom": "Troisième ligne",
+      "groupe_id": 1
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 5,
+    "fields": {
+      "poste": "mêl",
+      "nom": "Mêlée",
+      "groupe_id": 2
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 6,
+    "fields": {
+      "poste": "ouv",
+      "nom": "Ouverture",
+      "groupe_id": 2
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 7,
+    "fields": {
+      "poste": "3/4",
+      "nom": "Trois-quart",
+      "groupe_id": 3
+    }
+  },
+  {
+    "model": "configurations.poste",
+    "pk": 8,
+    "fields": {
+      "poste": "arr",
+      "nom": "Arrière",
+      "groupe_id": 3
+    }
+  }
+]

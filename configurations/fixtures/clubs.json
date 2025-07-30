@@ -1,0 +1,184 @@
+[
+  {
+    "model": "configurations.club",
+    "pk": 14,
+    "fields": {
+      "nom": "Rugby Club Vannetais",
+      "ville": "Vannes",
+      "annee_creation": 1950,
+      "stade_nom": "Stade de la Rabine",
+      "stade_annee_creation": 1920,
+      "surface_id": 1,
+      "stade_capacite": 11865
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 1,
+    "fields": {
+      "nom": "Aviron Bayonnais Bayonne",
+      "ville": "Bayonne",
+      "annee_creation": 1906,
+      "stade_nom": "Stade Jean-Dauger",
+      "stade_annee_creation": 1935,
+      "surface_id": 1,
+      "stade_capacite": 13507
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 3,
+    "fields": {
+      "nom": "Castres Olympique",
+      "ville": "Castres",
+      "annee_creation": 1906,
+      "stade_nom": "Stade Pierre-Fabre",
+      "stade_annee_creation": 1932,
+      "surface_id": 1,
+      "stade_capacite": 12000
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 4,
+    "fields": {
+      "nom": "ASM Clermont-Auvergne",
+      "ville": "Clermont-Ferrand",
+      "annee_creation": 1911,
+      "stade_nom": "Stade Marcel-Michelin",
+      "stade_annee_creation": 1911,
+      "surface_id": 1,
+      "stade_capacite": 19537
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 11,
+    "fields": {
+      "nom": "Union Sportive Alequins Perpignanais",
+      "ville": "Perpignan",
+      "annee_creation": 1902,
+      "stade_nom": "Stade Aimé Giral",
+      "stade_annee_creation": 1940,
+      "surface_id": 1,
+      "stade_capacite": 14593
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 2,
+    "fields": {
+      "nom": "Union Bordeaux Bègles Bordeaux",
+      "ville": "Bègles",
+      "annee_creation": 2006,
+      "stade_nom": "Stade Chaban-Delmas",
+      "stade_annee_creation": 1924,
+      "surface_id": 1,
+      "stade_capacite": 32215
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 5,
+    "fields": {
+      "nom": "Stade Rochelais",
+      "ville": "La Rochelle",
+      "annee_creation": 1898,
+      "stade_nom": "Stade Marcel-Deflandre",
+      "stade_annee_creation": 1926,
+      "surface_id": 1,
+      "stade_capacite": 16700
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 7,
+    "fields": {
+      "nom": "Lyon Olympique Universitaire",
+      "ville": "Lyon",
+      "annee_creation": 1896,
+      "stade_nom": "Stade Gerland",
+      "stade_annee_creation": 1926,
+      "surface_id": 2,
+      "stade_capacite": 35029
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 8,
+    "fields": {
+      "nom": "Montpellier Hérault Rugby",
+      "ville": "Montpellier",
+      "annee_creation": 1986,
+      "stade_nom": "GGL Stadium",
+      "stade_annee_creation": 2007,
+      "surface_id": 3,
+      "stade_capacite": 15697
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 10,
+    "fields": {
+      "nom": "Section Paloise Rugby Pro",
+      "ville": "Pau",
+      "annee_creation": 1902,
+      "stade_nom": "Stade du Hameau",
+      "stade_annee_creation": 1949,
+      "surface_id": 1,
+      "stade_capacite": 15000
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 6,
+    "fields": {
+      "nom": "Racing 92",
+      "ville": "Le Plessis-Robinson",
+      "annee_creation": 1882,
+      "stade_nom": "Paris La Défense Arena",
+      "stade_annee_creation": 2017,
+      "surface_id": 2,
+      "stade_capacite": 30000
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 9,
+    "fields": {
+      "nom": "Stade Français Paris Rugby",
+      "ville": "Paris",
+      "annee_creation": 1883,
+      "stade_nom": "Stade Jean-Bouin",
+      "stade_annee_creation": 1926,
+      "surface_id": 2,
+      "stade_capacite": 19500
+    }
+  },
+  {
+    "model": "configurations.club",
+    "pk": 12,
+    "fields": {
+      "nom": "Rugby Club Toulonnais",
+      "ville": "Toulon",
+      "annee_creation": 1908,
+      "stade_nom": "Stade Mayol",
+      "stade_annee_creation": 1920,
+      "surface_id": 3,
+      "stade_capacite": 16128
+    }
+  },
+    {
+    "model": "configurations.club",
+    "pk": 13,
+    "fields": {
+      "nom": "Stade Toulousain",
+      "ville": "Toulouse",
+      "annee_creation": 1907,
+      "stade_nom": "Stade Ernest-Wallon",
+      "stade_annee_creation": 1983,
+      "surface_id": 1,
+      "stade_capacite": 18883
+    }
+  }
+]

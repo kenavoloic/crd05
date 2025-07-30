@@ -1,0 +1,54 @@
+#+begin_src sql
+
+ select nom, ville, annee_creation from configurations_club;
+
+#+end_src
+
+#+begin_src sql
+ select
+nom
+, ville
+, annee_creation as "Création"
+from configurations_club
+order by annee_creation;
+
+#+end_src
+
+#+begin_src sql
+select cc.nom, cc.ville, cc.annee_creation from configurations_club cc order by annee_creation;
+
+#+end_src
+
+#+begin_src sql
+
+ select configurations_joueur.nom, configurations_joueur.prenom, configurations_joueur.poste_id_id, configurations_joueur.date_naissance, c.nom  from configurations_joueur join configurations_club c on club_id_id = c.club_id where ISO_ID = 'ALL';
+
+#+end_src
+
+
+#+begin_src sql
+select configurations_joueur.nom
+, cj.prenom
+, cj.poste_id_id
+, cj.date_naissance
+, cc.nom
+, cp.nom
+from configurations_joueur cj
+join configurations_club cc on cj.club_id_id = cc.club_id
+join configurations_poste cp on cj.poste_id_id = cp.poste_id
+where ISO_ID = 'ALL';
+
+#+end_src
+
+
+#+begin_src sql
+
+ select cj.nom, cj.prenom, cpays.nom, cj.poste_id_id from configurations_joueur cj join configurations_pays cpays on cj.iso_id = cpays.iso where cj.club_id_id = 1;
+
+#+end_src
+
+#+begin_src sql
+
+ select cj.nom as "Nom", cj.prenom as "Prénom", cpays.nom as "Pays", initcap(cposte.nom) as "Poste" from configurations_joueur cj join configurations_pays cpays on cj.iso_id = cpays.iso join configurations_poste cposte on cj.poste_id_id = cposte.poste_id where cj.club_id_id = 1;
+
+#+end_src
