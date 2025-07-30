@@ -1,0 +1,42 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="{% static 'css/style.css' %}">
+	<title>Test</title>
+</head>
+
+<body>
+	<header class="navbar">
+		<div class="logo">Corp. Logo</div>
+		<nav class="nav-links">
+			<a href="">Accueil</a>
+			<a href="">À propos</a>
+			<a href="">Services</a>
+			<a href="">Contact</a>
+		</nav>
+	</header>
+
+	<h1>Top 14 Saison 2024-25</h1>
+	<main class="main">
+		{% block content %}
+
+		<ul class="listes">
+			{% for club in clubs %}
+			<li>{{club.nom}}</li>
+			{% endfor %}
+		</ul>
+		{% endblock %}
+	</main>
+	<footer class="footer">
+		&copy; 2025 Corp. Tous droits réservés.
+	</footer>
+
+</body>
+
+</html>
+
+</html>

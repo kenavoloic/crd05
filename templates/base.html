@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}MonSite{% endblock %}</title>
+  <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">MonSite</div>
+    <nav class="nav-links">
+      <a href="{% url 'home' %}">Accueil</a>
+      <a href="{% url 'about' %}">À propos</a>
+      <a href="{% url 'services' %}">Services</a>
+      <a href="{% url 'contact' %}">Contact</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    {% block content %}
+    {% endblock %}
+  </main>
+
+  <footer class="footer">
+    &copy; 2025 MonSite. Tous droits réservés.
+  </footer>
+</body>
+</html>

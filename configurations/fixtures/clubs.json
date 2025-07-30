@@ -55,7 +55,7 @@
     "model": "configurations.club",
     "pk": 11,
     "fields": {
-      "nom": "Union Sportive Alequins Perpignanais",
+      "nom": "Union Sportive Arlequins Perpignanais",
       "ville": "Perpignan",
       "annee_creation": 1902,
       "stade_nom": "Stade Aimé Giral",
